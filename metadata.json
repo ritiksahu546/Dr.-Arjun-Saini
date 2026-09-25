@@ -1,0 +1,6 @@
+{
+  "name": "Kasthbhanjan Bawasir & General Clinic",
+  "description": "Specialized Ayurvedic care for piles, fissure, fistula and anorectal conditions by Dr. Arjun Saini (B.A.M.S., PGCKS) in Gangoh, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
